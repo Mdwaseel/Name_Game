@@ -4,9 +4,7 @@ function redirect() {
 		window.location.href = "waseel.html";
 	}
 
-	if (nameInput == "noureen"|| nameInput == "Noureen") {
-		window.location.href = "back.html";
-	}
+	
 
     
     
