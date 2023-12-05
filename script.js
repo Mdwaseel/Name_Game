@@ -1,8 +1,8 @@
 function redirect() {
     let nameInput = document.getElementById("nameInput").value;
     
-    if (nameInput.toLowerCase() === "xyz") {
-        window.location.href = "waseel.html";
+    if (nameInput.toLowerCase() === "sara") {
+        window.location.href = "sara.html";
     } else if (nameInput.toLowerCase() === "sarah") {
         window.location.href = "sara.html";
     } else {
