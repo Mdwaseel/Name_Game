@@ -3,6 +3,11 @@ function redirect() {
 	if (nameInput == "xyz"|| nameInput == "Xyz") {
 		window.location.href = "waseel.html";
 	}
+	if (nameInput == "sara"|| nameInput == "Sara") {
+		window.location.href = "sara.html";
+	}
+
+
 
 	
 
