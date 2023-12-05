@@ -3,7 +3,7 @@ function redirect() {
     
     if (nameInput.toLowerCase() === "sara") {
         window.location.href = "sara.html";
-    } else if (nameInput.toLowerCase() === "saraa") {
+    } else if (nameInput.toLowerCase() === "sarah") {
         window.location.href = "sara.html";
     } else {
         document.getElementById("errorMessage").innerHTML = "Please enter a correct name";
